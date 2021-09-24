@@ -4,3 +4,10 @@ Group all these transaction details, create a hash code for this to store in a b
 After verifications - Permanent Block - Block added to blockchain(keeps growing)
 It is belived that in every 10 minutes a new block gets created & blockchain grows accordingly(in a timeframe)
 Blockchain is the technology behind cryptocurrency(such as bitcoin,eth,polygon,etc.)
+Bitcoin - Decentralized Digital Currency(first)
+Came to market in 2009 by pseudoname - Satoshi Nakamoto
+July 2009 - 1st blockchain came to implementation through bitcoin
+Only 21 Million total bicoins can be created & till 17.09.21 we already created 18.78 Million of them
+Can't be created by any individual as it used cryptography and complex maths problems to control its creation and management (Upgradation on a regular basis)
+Bitcoin system would not exhaust even if more miners come every day
+Ensures last bitcoin to be mined till 2140(with increasing of complexity)
