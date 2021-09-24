@@ -11,3 +11,11 @@ Only 21 Million total bicoins can be created & till 17.09.21 we already created 
 Can't be created by any individual as it used cryptography and complex maths problems to control its creation and management (Upgradation on a regular basis)
 Bitcoin system would not exhaust even if more miners come every day
 Ensures last bitcoin to be mined till 2140(with increasing of complexity)
+Ledger System - Keep track of transactions ( completely electronic and highly secure )
+Hash Code - Unique Identity of a block (minute change could change whole block)
+Can't be reversed if once created - Can't be manipulated by anyone
+Value of proof of that block - Mathmatical solution to attach with a block (ensure its validity)
+Ledgers can't be manipulated
+Produced by people using software that solves mathmatical problems to get valid output
+It's copies gets distributed throughout the network
+Changing one transaction could not be accepted as everyone has a valid ledger (so invalid gets rejected)
