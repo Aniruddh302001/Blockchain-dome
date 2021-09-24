@@ -20,3 +20,6 @@ Ledgers can't be manipulated
 Produced by people using software that solves mathmatical problems to get valid output
 It's copies gets distributed throughout the network
 Changing one transaction could not be accepted as everyone has a valid ledger (so invalid gets rejected)
+Sectors like Banking , Voting , Gaming could be completely changed through implementation of the blockchain
+Games like axie infinity is already doing it(people even earn from such games)
+Work on voting on a blockchain is currently going under work and could be implementd within few years
