@@ -1,4 +1,4 @@
-Blockchain - Collection of all recent transactions happened & verified is a block
+Blockchain - Collection of all recent transactions happened & verified is a block by a miner
 Public distributed database which holds the encrypted ledger
 Group all these transaction details, create a hash code for this to store in a block
 After verifications - Permanent Block - Block added to blockchain(keeps growing)
@@ -11,6 +11,7 @@ Only 21 Million total bicoins can be created & till 17.09.21 we already created 
 Can't be created by any individual as it used cryptography and complex maths problems to control its creation and management (Upgradation on a regular basis)
 Bitcoin system would not exhaust even if more miners come every day
 Ensures last bitcoin to be mined till 2140(with increasing of complexity)
+Miners Verify and validate transactions(after cheching all required past transactions)
 Ledger System - Keep track of transactions ( completely electronic and highly secure )
 Hash Code - Unique Identity of a block (minute change could change whole block)
 Can't be reversed if once created - Can't be manipulated by anyone
