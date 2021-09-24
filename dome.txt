@@ -1,0 +1,6 @@
+Blockchain - Collection of all recent transactions happened & verified is a block
+Public distributed database which holds the encrypted ledger
+Group all these transaction details, create a hash code for this to store in a block
+After verifications - Permanent Block - Block added to blockchain(keeps growing)
+It is belived that in every 10 minutes a new block gets created & blockchain grows accordingly(in a timeframe)
+Blockchain is the technology behind cryptocurrency(such as bitcoin,eth,polygon,etc.)
