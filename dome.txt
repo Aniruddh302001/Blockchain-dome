@@ -20,3 +20,4 @@ Ledgers can't be manipulated
 Produced by people using software that solves mathmatical problems to get valid output
 It's copies gets distributed throughout the network
 Changing one transaction could not be accepted as everyone has a valid ledger (so invalid gets rejected)
+Many positive sides of blockchain are hidden from the society
