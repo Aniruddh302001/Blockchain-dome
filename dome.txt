@@ -8,6 +8,7 @@ Bitcoin - Decentralized Digital Currency(first)
 Came to market in 2009 by pseudoname - Satoshi Nakamoto
 July 2009 - 1st blockchain came to implementation through bitcoin
 Only 21 Million total bicoins can be created & till 17.09.21 we already created 18.78 Million of them
+Miners use large machines to mine bitcoins as it requires solving very complex problems(most of the times miners in group invest to mine bitcoins)
 Can't be created by any individual as it used cryptography and complex maths problems to control its creation and management (Upgradation on a regular basis)
 Bitcoin system would not exhaust even if more miners come every day
 Ensures last bitcoin to be mined till 2140(with increasing of complexity)
